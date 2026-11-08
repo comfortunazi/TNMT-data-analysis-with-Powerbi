@@ -1,1 +1,0 @@
-# TNMT-data-analysis-with-Powerbi
